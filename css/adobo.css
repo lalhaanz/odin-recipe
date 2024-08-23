@@ -1,0 +1,20 @@
+*{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(/images/bg.jpg);
+    color: white;
+}
+
+.heade{
+    text-align: center;
+}
+
+h3{
+    text-transform: uppercase;
+    
+}
+.baboy{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

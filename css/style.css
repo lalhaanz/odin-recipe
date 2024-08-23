@@ -1,0 +1,23 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: white;
+    
+}
+h1{
+    text-align: center;
+    text-transform:uppercase;
+    text-decoration:overline;
+    font-size:xx-large;
+    
+}
+body{
+    background-image: url(/images/bg.jpg);
+}
+ul{
+   padding-bottom: 10px; 
+}
+p{
+    padding-top: 20px;
+}
+
